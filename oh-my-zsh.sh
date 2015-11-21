@@ -111,3 +111,6 @@ else
     fi
   fi
 fi
+
+export DISABLE_UNTRACKED_FILES_DIRTY="true"
+export DISABLE_AUTO_TITLE="true"
